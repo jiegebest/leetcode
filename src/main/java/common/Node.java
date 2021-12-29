@@ -2,8 +2,8 @@ package common;
 
 public class Node {
 	public int value;
-	Node left;
-	Node right;
+	public Node left;
+	public Node right;
 	Node (int data) {
 		this.value = data;
 	}

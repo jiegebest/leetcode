@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f700993-db57-48e8-b138-da6cf1c74546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/bytedance/simple/S09用两个栈实现队列S232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/bytedance/simple/S225用队列实现栈/S225用队列实现栈WithOneQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/bytedance/simple/S225用队列实现栈/S225用队列实现栈WithTwoQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/bytedance/simple/S387字符串中的第一个唯一字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/datastructure/bytedance/simple/S剑指Offer50第一个只出现一次.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tree/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/S232用栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stack/bytedance/simple/S232用栈实现队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/S234回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stack/bytedance/simple/S234回文链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/S94二叉树的中序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stack/bytedance/simple/S94二叉树的中序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/s144二叉树的前序遍历.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stack/bytedance/simple/s144二叉树的前序遍历.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/s20有效的括号.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/stack/bytedance/simple/s20有效的括号.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,15 +86,46 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
-  <component name="RunManager">
-    <configuration name="S234回文链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stack.S234回文链表" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="datastructure.bytedance.simple.S225用队列实现栈" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.S225用队列实现栈1">
+    <configuration name="S225用队列实现栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.bytedance.simple.S225用队列实现栈.S225用队列实现栈" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stack.*" />
+          <option name="PATTERN" value="datastructure.bytedance.simple.S225用队列实现栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S225用队列实现栈1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructure.bytedance.simple.S225用队列实现栈.S225用队列实现栈1" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructure.bytedance.simple.S225用队列实现栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S234回文链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stack.bytedance.simple.S234回文链表" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.bytedance.simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +135,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S225用队列实现栈1" />
+        <item itemvalue="Application.S225用队列实现栈" />
         <item itemvalue="Application.S234回文链表" />
       </list>
     </recent_temporary>

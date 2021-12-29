@@ -1,4 +1,4 @@
-package stack;
+package stack.bytedance.simple;
 
 import java.util.Deque;
 import java.util.HashMap;

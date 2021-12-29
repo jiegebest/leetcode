@@ -1,4 +1,4 @@
-package stack;
+package stack.bytedance.simple;
 
 import common.TreeNode;
 
